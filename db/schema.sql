@@ -28,6 +28,6 @@ CREATE TABLE employee (
   REFERENCES role(id)
   CONSTRAINT ON DELETE CASCADE,
   FOREIGN KEY (manager_id)
-  REFERENCES employee(id) AS first_name
+  REFERENCES employee(id) 
   CONSTRAINT ON DELETE SET NULL
 );
