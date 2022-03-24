@@ -15,7 +15,7 @@
   ## Description
   In order to keep database and produce the ease of accessing and changing information in the database of an employee's role, department, manager, salary, and title, this project was built for that reason. 
 
-[link](https://www.youtube.com/watch?v=IDzU8HD0p5U&ab_channel=DanKim)
+[Project Walkthrough link](https://www.youtube.com/watch?v=IDzU8HD0p5U&ab_channel=DanKim)
 
   ## Installation
   Copy the url and clone into your folder of your liking.
